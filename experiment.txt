@@ -1,3 +1,4 @@
 my first git exp 
 i am experimenting github and vscode
 this is branch exp2 testing
+all git operations performed using vs code and git hub
